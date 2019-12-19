@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+#btn {
+  background-color: aliceblue;
+}
+
+#js-paragraph {
+  color: yellow;
+}
