@@ -4,6 +4,7 @@
 
 body {
   text-align: center;
+  background-color: lightgrey;
 }
 
 #btn {
@@ -11,5 +12,5 @@ body {
 }
 
 #js-paragraph {
-  color: yellow;
+  color: pink;
 }
